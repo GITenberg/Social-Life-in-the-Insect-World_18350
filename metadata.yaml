@@ -1,0 +1,48 @@
+_repo: Social-Life-in-the-Insect-World_18350
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Miall, Bernard
+    alias: Miall, A. Bernard
+    birthdate: 1876
+    gutenberg_agent_id: '1214'
+    url: http://www.gutenberg.org/2009/agents/1214
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fabre, Jean-Henri
+    aliases:
+    - Fabre, J. Henri
+    - Fabre, Henri
+    - Fabre, Jean Henri Casimir
+    birthdate: 1823
+    deathdate: 1915
+    gutenberg_agent_id: '735'
+    url: http://www.gutenberg.org/2009/agents/735
+    wikipedia: http://en.wikipedia.org/wiki/Jean_Henri_Fabre
+description: 'Cover; Title Page; Copyright Page; Table of Contents; The Fable of the
+  Cigale and the Ant; The Cigale Leaves its Burrow; The Song of the Cigale; The Cigale.
+  The Eggs and Their Hatching; The Mantis.-The Chase; The Mantis.-Courtship; The Mantis.-The
+  Nest; The Golden Gardener.-Its Nutriment; The Golden Gardener-Courtship; The Field-cricket;
+  The Italian Cricket; The Sisyphus Beetle.-The Instinct of Paternity; A Bee-hunter:
+  the Philanthus Aviporus; The Great Peacock, or Emperor Moth; The Oak Eggar, or Banded
+  Monk; A Truffle-hunter: the Bolboceras Gallicus; The Elephant-Beetle.'
+gutenberg_bookshelf:
+- Biology
+- Animals-Wild-Insects
+gutenberg_issued: '2006-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18350'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Insects -- Behavior'
+- !lcsh 'Insect societies'
+title: Social Life in the Insect World
+url: http://www.gutenberg.org/ebooks/18350
